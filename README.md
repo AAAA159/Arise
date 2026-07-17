@@ -39,8 +39,10 @@
 | **Google Fonts** | خطوط مميزة (Inter + Playfair Display + JetBrains Mono) |
 
 ---
+
+## 📂 هيكل الملفات
+
+```text
 📁 arise-portfolio/
 ├── 📄 index.html          # الملف الرئيسي للموقع
 └── 📄 README.md           # ملف التوضيح والتشغيل
-
-  
